@@ -48,8 +48,13 @@ The flash script waits for you to press ENTER to confirm the new firmware works.
 
 | Key | Function |
 |-----|----------|
-| Fn+E / Fn+S | Brightness up/down |
-| Fn+Q / Fn+W | Effect speed down/up |
+| Fn+W / Fn+S | Brightness up/down |
+| Fn+E / Fn+Q | Effect speed up/down |
 | Fn+D / Fn+A | Next/prev effect |
 | Fn+Z | Toggle RGB (all / keys-only / underglow-only / off) |
+| Fn+N | Toggle N-Key Rollover |
 | Fn+B | Bootloader mode (hold 0.5s) |
+| Fn+PrtSc | Mute |
+| Fn+Ins / Fn+Home | Play-pause / Stop |
+| Fn+Del / Fn+End | Previous / next track |
+| Fn+PgUp / Fn+PgDn | Volume up/down |
